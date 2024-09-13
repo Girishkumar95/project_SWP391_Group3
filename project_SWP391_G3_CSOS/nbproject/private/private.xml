@@ -5,8 +5,15 @@
         <group>
             <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/web/WEB-INF/dispatcher-servlet.xml</file>
             <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/src/java/dal/DBContext.java</file>
+            <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/src/java/model/Product.java</file>
             <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/src/java/controller/ViewsHomepage.java</file>
+            <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/web/font-end/css/systemcss.css</file>
             <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/web/redirect.jsp</file>
+            <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/src/java/model/Customer.java</file>
+            <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/src/java/model/Bank.java</file>
+            <file>file:/D:/ki%205/SWP/project_SWP391_G3_CSOS/web/font-end/js/javascripthome.css</file>
         </group>
     </open-files>
 </project-private>
